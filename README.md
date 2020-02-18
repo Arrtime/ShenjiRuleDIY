@@ -1,4 +1,5 @@
-#神机规则
+```html
+# 神机规则
  
 # HTTP 端口
 port: 7890
@@ -1703,3 +1704,4 @@ Rule:
 - DOMAIN-SUFFIX,g3.luciaz.me,DIRECT
  
 - MATCH,Final
+```
